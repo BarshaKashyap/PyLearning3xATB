@@ -1,0 +1,5 @@
+print("Hello Barsha!")
+print(2+2)
+print(2/2)
+print(2*2)
+print(2-2)
