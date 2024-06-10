@@ -4,19 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Variables and Data types">
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab026.py" afterDir="false" />
+    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Data types-Contd">
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +90,13 @@
     "Python.Lab024.executor": "Run",
     "Python.Lab025.executor": "Run",
     "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -133,13 +142,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717609280206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Data types-Contd">
+      <option name="closed" value="true" />
+      <created>1717961279312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717961279312</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aDDING lanb001 file" />
     <MESSAGE value="aDDING lanb002 file" />
     <MESSAGE value="Variables and Data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data types" />
+    <MESSAGE value="Data types-Contd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data types-Contd" />
   </component>
 </project>
