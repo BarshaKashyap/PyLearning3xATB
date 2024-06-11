@@ -4,22 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Data types-Contd">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab040.py" afterDir="false" />
+    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Literals and operators">
+      <change afterPath="$PROJECT_DIR$/Assignment_10062024/Task_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_10062024/Task_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_10062024/Task_02_program2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab039.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab040.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +90,9 @@
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab036.executor": "Run",
+    "Python.Task_01.executor": "Run",
+    "Python.Task_02.executor": "Run",
+    "Python.Task_02_program2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -150,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717961279312</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Literals and operators">
+      <option name="closed" value="true" />
+      <created>1718042936407</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718042936408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +162,7 @@
     <MESSAGE value="aDDING lanb002 file" />
     <MESSAGE value="Variables and Data types" />
     <MESSAGE value="Data types-Contd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data types-Contd" />
+    <MESSAGE value="Literals and operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Literals and operators" />
   </component>
 </project>

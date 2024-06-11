@@ -10,11 +10,11 @@ import math
 # Core Logic -> pi*r*r = 3.14
 
 radius = float(input("Enter the radius\n"))
-print(math.pi)
-area = math.pi*(radius**2)
-area2 = math.pi*(math.pow(radius,2))
+# print(math.pi)
+area = math.pi * (radius ** 2)
+area2 = math.pi * (math.pow(radius, 2))
 print(area)
 print(area2)
 
 # Single line
-print(3.141592653589793*(float(input("Enter the radius\n"))**2))
+print(3.141592653589793 * (float(input("Enter the radius\n")) ** 2))
