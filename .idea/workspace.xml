@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Assignments-Task1 and Task 2">
-      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task 2- program2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task 2-program 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab047.py" afterDir="false" />
+    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Operators">
+      <change afterPath="$PROJECT_DIR$/Assignment 2_12062024/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2_12062024/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2_12062024/fibonnaci series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2_12062024/leapyear.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +99,8 @@
     "Python.Task_01.executor": "Run",
     "Python.Task_02.executor": "Run",
     "Python.Task_02_program2.executor": "Run",
+    "Python.Triangle.executor": "Run",
+    "Python.leapyear.executor": "Run",
     "Python.task 2- program2.executor": "Run",
     "Python.task 2-program 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -210,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718133423807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1718283609414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718283609414</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +219,7 @@
     <MESSAGE value="Data types-Contd" />
     <MESSAGE value="Literals and operators" />
     <MESSAGE value="Assignments-Task1 and Task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignments-Task1 and Task 2" />
+    <MESSAGE value="Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
   </component>
 </project>
