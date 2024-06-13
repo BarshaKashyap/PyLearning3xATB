@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Literals and operators">
-      <change afterPath="$PROJECT_DIR$/Assignment_10062024/Task_02.py" afterDir="false" />
+    <list default="true" id="7ebaf50c-158b-487a-9900-36ec96e67ac0" name="Changes" comment="Assignments-Task1 and Task 2">
+      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task 2- program2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task 2-program 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1-Tutor answer/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_10062024/Task_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_10062024/Task_02_program2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab039.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab040.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +98,54 @@
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
     "Python.Task_01.executor": "Run",
     "Python.Task_02.executor": "Run",
     "Python.Task_02_program2.executor": "Run",
+    "Python.task 2- program2.executor": "Run",
+    "Python.task 2-program 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="task 2- program2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment 1-Tutor answer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment 1-Tutor answer/task 2- program2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task 2- program2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -154,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718042936408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assignments-Task1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1718133423807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718133423807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +219,7 @@
     <MESSAGE value="Variables and Data types" />
     <MESSAGE value="Data types-Contd" />
     <MESSAGE value="Literals and operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Literals and operators" />
+    <MESSAGE value="Assignments-Task1 and Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments-Task1 and Task 2" />
   </component>
 </project>
